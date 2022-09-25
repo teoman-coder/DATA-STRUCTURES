@@ -1,3 +1,1 @@
-# projects
-
-adamsin milyoner culluk
+www.patika.dev
