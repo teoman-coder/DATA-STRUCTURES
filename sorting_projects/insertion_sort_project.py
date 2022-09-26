@@ -1,15 +1,14 @@
 
-""" 
+"""
+INSERTION SORT
 
-[22,27,16,2,18,6]
-
-(-1-) Write the stages of the above given sequence according to the insertion sort.
-
-   
  Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.The array is
 virtually split into a sorted and an unsorted part.Values from the unsorted part are picked and placedat the correct position
 in the sorted part.
 
+[22,27,16,2,18,6]
+
+(-1-) Write the stages of the above given sequence according to the insertion sort.
 
 
  1)   ->   [22|27,16,2,18,6] (one element sorted)
