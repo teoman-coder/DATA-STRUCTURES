@@ -1,0 +1,10 @@
+1-INSERTION SORT
+
+2-MERGE SORT
+
+3-BINARY SEARCH TREE
+
+
+
+
+www.patika.dev
